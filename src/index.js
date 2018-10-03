@@ -203,6 +203,6 @@ const customTagStyle = {
     margin: "2px"
 };
 ReactDOM.render(
-    <FlickrApplication images={}/>,
+    <FlickrApplication/>,
     document.getElementById('root')
 );
